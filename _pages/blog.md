@@ -1,7 +1,7 @@
 ---
 layout: posts
-permalink: /data-science/
-title: "Data Science Posts by Tags"
+permalink: /blog/
+title: "Data Science Blog Posts by Tags"
 author_profile: true
 header:
   image: "/images/beach2.jpg"
