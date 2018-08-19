@@ -2,9 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/andrewbeach.jpg"
 ---
 
-I'm a senior data scientist who excels at machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+I have a passion for data science; I enjoy cleaning data, analyzing data, using machine learning techniques, discovering hidden insights and visualizing important findings.
