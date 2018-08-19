@@ -4,5 +4,5 @@ permalink: /notes/
 title: "Machine Learning/ Data Science notes"
 author_profile: true
 header:
-  image: "/images/beach2.jpg"
+  image: "/images/beach1.jpg"
 ---
